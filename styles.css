@@ -1,0 +1,37 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.navbar-brand {
+    color :black;
+    font-size: 50px;
+
+}
+
+.info {
+    padding-top: 4rem;
+}
+
+p {
+    color : gray;
+}
+
+.btn{
+    background-color : #00DFC0;
+    color :white;
+}
+
+.btn:hover {
+    background-color : #00c5ab;
+    color :white;
+}
+
+.btn-outline{
+    background-color: white;
+    color :#00DFC0;
+    border-color: #00DFC0;
+}
