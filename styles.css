@@ -51,7 +51,7 @@ p {
 
 .service {
     padding-top: 2rem;
-    padding-bottom: 3rem;
+    padding-bottom: 5rem;
 }
 
 .card{
@@ -59,4 +59,25 @@ p {
     margin-top: 3rem;
     margin-left : auto;
     margin-right: auto;
+}
+
+
+.Contact{
+    padding-top: 5rem;
+    padding-bottom: 10rem;
+}
+
+
+.textContact{
+    padding-bottom: 1rem;
+}
+
+.kotakContact{
+    background-color: white;
+    border : 5px solid #00DFC0 ;
+}
+
+
+#exampleFormControlTextarea1{
+    height: 175px;
 }
