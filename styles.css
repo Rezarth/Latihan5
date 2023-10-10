@@ -81,3 +81,32 @@ p {
 #exampleFormControlTextarea1{
     height: 175px;
 }
+
+footer{
+    background-color: #00DFC0;
+    color : white;
+}
+
+.judul-footer{
+    padding-top: 1rem;
+}
+
+#logo {
+    margin : auto;
+}
+
+#facebook{
+    color: white;
+}
+
+#instagram{
+    color: white;
+}
+
+#twitter{
+    color: white;
+}
+
+.footer-text {
+    color : white;
+}
